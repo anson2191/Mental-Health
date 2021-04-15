@@ -20,6 +20,6 @@ path/to/node_modules/.bin/node-sass path/to/somefile.sass -o path/to/output.css
 ```
   
 In our case we compile those files and put compiled files in preproccesor_hw/dist  
-The compiled website can be viewed at [a link] http://luffy.ee.ncku.edu.tw/~scallop/dist/main.html
+The result of the compiled files can be viewed at http://luffy.ee.ncku.edu.tw/~scallop/dist/main.html
 
 
