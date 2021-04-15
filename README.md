@@ -14,7 +14,9 @@ Use command
 path/to/node_modules/.bin/pug path/to/somefile.pug -o path/to/output.html
 ```
 *Compile sass to css  
-Similary use command
+Similary, use command
 ```
 path/to/node_modules/.bin/node-sass path/to/somefile.sass -o path/to/output.css
 ```
+
+
