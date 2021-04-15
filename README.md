@@ -19,6 +19,7 @@ Similary, use command
 path/to/node_modules/.bin/node-sass path/to/somefile.sass -o path/to/output.css
 ```
   
-In our case we compile those files and put them in preproccesor_hw/dist
+In our case we compile those files and put compiled files in preproccesor_hw/dist  
+The compiled website can be viewed at [a link] http://luffy.ee.ncku.edu.tw/~scallop/dist/main.html
 
 
