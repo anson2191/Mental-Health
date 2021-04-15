@@ -18,5 +18,7 @@ Similary, use command
 ```
 path/to/node_modules/.bin/node-sass path/to/somefile.sass -o path/to/output.css
 ```
+  
+In our case we compile those files and put them in preproccesor_hw/dist
 
 
