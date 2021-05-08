@@ -6,25 +6,25 @@
 				
 				
 				<div id="navbar_main">
-					<img class="full_img" src="./pic/aura.png"/>
+					<img class="full_img" src="@/assets/pic/aura.png"/>
 				</div>
 				
 				
 					<button class="navbar_button" id="navbar_record">
-						<img class="full_img" src="./pic/record.png"/>
+						<img class="full_img" src="@/assets/pic/record.png"/>
 					</button>
 					
 					<button class="navbar_button" id="navbar_user">
-						<img class="full_img" src="./pic/user.png"/>
+						<img class="full_img" src="@/assets/pic/user.png"/>
 					</button>
 				
 			</div>
 			
 			<div id="famous_box">
-				<img id="famous_box_border" class="full_img" src="./pic/border.png">
+				<img id="famous_box_border" class="full_img" src="@/assets/pic/border.png">
 				<div id="famous_box_left">
 					<div id="famous_box_pic">
-						<img class="full_img" src="./pic/grass.png"/>
+						<img class="full_img" src="@/assets/pic/grass.png"/>
 					</div>
 				</div>
 				
@@ -89,7 +89,7 @@
 		
 		<div style="padding: 0 4vh;">
 			<div id="accept_button" onclick="location.href='https://luffy.ee.ncku.edu.tw/~anson2191/project/reserve/start.html'">
-				<!-- <img class="full_img" src="./pic/long_button.png"/> -->
+				<!-- <img class="full_img" src="@/assets/pic/long_button.png"/> -->
 				
 				<font class="button_font">接受上述內容，預約初談</font>
 				
@@ -367,7 +367,7 @@ p3{
 	align-items: center;
     justify-content: center;
 	
-	/* background-image: url('./pic/long_button.png');
+	/* background-image: url('@/assets/pic/long_button.png');
 	background-size: contain;
 	background-position-x:center;
 	background-repeat: no-repeat; */
