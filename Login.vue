@@ -134,7 +134,7 @@ body{
 	padding: 0;
 	margin: 0;
 	
-	//font-family: Taipei Sans TC Beta;
+	/*font-family: Taipei Sans TC Beta;*/
 	
 /* 	display: flex;
 	flex-direction: column;
@@ -155,7 +155,7 @@ blockquote{
 }
 
 .button_font{
-	//font-family: Taipei Sans TC Beta;
+	/*font-family: Taipei Sans TC Beta;*/
 	font-size: 2.22vh;
 	font-weight: normal;
 	color: #FFFFFF;
@@ -279,7 +279,7 @@ blockquote{
     justify-content: center;
     align-items: flex-end;
 	
-	//font-family: Taipei Sans TC Beta;
+	/*font-family: Taipei Sans TC Beta;*/
 	font-weight: 400;
 	color: #5C5C5C;
 }
@@ -321,7 +321,7 @@ p2{
 }
 
 t1{
-	//font-family: Taipei Sans TC Beta;
+	/*font-family: Taipei Sans TC Beta;*/
 	font-size: 2.6vh;
 	font-style: normal;
 	font-weight: 400;
