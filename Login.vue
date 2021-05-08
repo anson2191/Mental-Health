@@ -1,4 +1,5 @@
 <template>
+	<div>
   		<!-- 720px/100vh -->
 		<div id="layout_up">
 			<div id="navbar">
@@ -96,25 +97,26 @@
 		</div>
 		
 		<div id="base"></div>
+	</div>
 </template>
 
 <script>
 </script>
 
 <style rel="stylesheet" type="text/css">
-@font-face{
+/* @font-face{
 	font-family: Taipei Sans TC Beta;
 	src: url('./font/TaipeiSansTCBeta-Regular.ttf');
 	
 	font-weight: normal;
-}
+} */
 
-@font-face{
+/* @font-face{
 	font-family: Taipei Sans TC Beta;
 	src: url('./font/TaipeiSansTCBeta-Light.ttf');
 	
 	font-weight: 300;
-}
+} */
 
 /* @font-face{
 	font-family: Taipei Sans TC Beta;
@@ -132,7 +134,7 @@ body{
 	padding: 0;
 	margin: 0;
 	
-	font-family: Taipei Sans TC Beta;
+	//font-family: Taipei Sans TC Beta;
 	
 /* 	display: flex;
 	flex-direction: column;
@@ -153,7 +155,7 @@ blockquote{
 }
 
 .button_font{
-	font-family: Taipei Sans TC Beta;
+	//font-family: Taipei Sans TC Beta;
 	font-size: 2.22vh;
 	font-weight: normal;
 	color: #FFFFFF;
@@ -277,7 +279,7 @@ blockquote{
     justify-content: center;
     align-items: flex-end;
 	
-	font-family: Taipei Sans TC Beta;
+	//font-family: Taipei Sans TC Beta;
 	font-weight: 400;
 	color: #5C5C5C;
 }
@@ -319,7 +321,7 @@ p2{
 }
 
 t1{
-	font-family: Taipei Sans TC Beta;
+	//font-family: Taipei Sans TC Beta;
 	font-size: 2.6vh;
 	font-style: normal;
 	font-weight: 400;
